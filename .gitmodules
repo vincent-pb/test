@@ -1,0 +1,3 @@
+[submodule "streamTest"]
+	path = streamTest
+	url = https://github.com/vincent-pb/streamTest
