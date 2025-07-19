@@ -4,3 +4,4 @@
 [submodule "matrixTest"]
 	path = matrixTest
 	url = https://github.com/vincent-pb/matrixTest.git
+	branch = main
