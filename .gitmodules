@@ -1,6 +1,7 @@
 [submodule "streamTest"]
 	path = streamTest
 	url = https://github.com/vincent-pb/streamTest
+	branch = main
 [submodule "matrixTest"]
 	path = matrixTest
 	url = https://github.com/vincent-pb/matrixTest.git
